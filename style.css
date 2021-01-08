@@ -9,3 +9,8 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
+
+.input-group {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
